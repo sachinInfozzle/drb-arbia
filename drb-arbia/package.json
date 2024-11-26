@@ -1,0 +1,28 @@
+{
+  "name": "drb-arbia",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.1",
+    "axios": "^1.7.7",
+    "bootstrap": "^5.3.3",
+    "i18next": "^24.0.0",
+    "next": "15.0.3",
+    "next-i18next": "^15.4.0",
+    "next-sitemap": "^4.2.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-i18next": "^15.1.1",
+    "sass": "^1.81.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "15.0.3"
+  }
+}
